@@ -6,8 +6,11 @@
 * 
 * Criado Por: Rogério José de Souza
 *
- ![Screenshot](App.png)
 
+
+<p align="center">
+  <img width="460" height="300" src="imgs/App.png">
+</p>
 
  
  
